@@ -6,10 +6,17 @@
 ```
 dart pub add shelf
 ```
+
+### Install dependencies
+```
+dart pub get
+```
+
 ### Run Server
 ```
 dart run bin/main.dart
 ```
+
 ### Post Item 1
 ```
 (base) cart-dart % curl -X POST http://localhost:8080/cart \
@@ -18,12 +25,14 @@ dart run bin/main.dart
 
 Item added to cart%          
 ```
+
 ### View Cart
 ```
 (base) cart-dart % curl -X GET http://localhost:8080/cart
 
 [{"productId":"123","quantity":5}]%   
 ```
+
 ### Post Item 2
 ```
 (base) cart-dart % curl -X POST http://localhost:8080/cart \
@@ -32,6 +41,7 @@ Item added to cart%
 
 Item added to cart%      
 ```
+
 ### View Cart
 ```
 (base) cart-dart % curl -X GET http://localhost:8080/cart
