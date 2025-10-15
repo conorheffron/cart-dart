@@ -1,5 +1,7 @@
 # cart-dart
 
+[![Dart](https://github.com/conorheffron/cart-dart/actions/workflows/dart.yml/badge.svg)](https://github.com/conorheffron/cart-dart/actions/workflows/dart.yml)
+
 ### Add dependencies
 ```
 dart pub add shelf
