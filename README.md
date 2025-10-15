@@ -12,6 +12,11 @@ dart pub add shelf
 dart pub get
 ```
 
+### Run Tests
+```
+dart test
+```
+
 ### Run Server
 ```
 dart run bin/main.dart
