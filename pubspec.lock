@@ -293,18 +293,18 @@ packages:
     dependency: transitive
     description:
       name: modular_core
-      sha256: "5d258daee4394fe16e5423208764f66f161225fe31d5babb186cf73455f1aedc"
+      sha256: "84cfe65d2ab15b0265a5bdb07a7a0408b06f8d92fee6fb94a3c85e97cbc2d6af"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.2"
+    version: "2.0.3+1"
   modular_interfaces:
     dependency: transitive
     description:
       name: modular_interfaces
-      sha256: ed10198f86e73dff23c857ef1bde43237c1bd6f4679b606a6b462a38789f3851
+      sha256: "89db18038048d63de80871189ddc52363814e8181615459e5d88ed0a921acc1f"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.4"
+    version: "2.0.2"
   node_preamble:
     dependency: transitive
     description:
@@ -365,10 +365,10 @@ packages:
     dependency: "direct main"
     description:
       name: shelf_modular
-      sha256: e586d0ea31292317d602d5486ce679e5c7984924163ba89696f2c03f56249b61
+      sha256: "9781517e56cc61eef04d208e802dc00cc705d47ec7b195c2279189b7c0368414"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.3"
+    version: "2.1.0"
   shelf_packages_handler:
     dependency: transitive
     description:
