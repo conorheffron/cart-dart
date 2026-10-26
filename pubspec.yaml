@@ -3,7 +3,7 @@ description: A simple shopping cart API in Dart
 environment:
   sdk: ">=3.9.4 <4.0.0"
 dependencies:
-  shelf: ^1.4.2
+  shelf: ^1.4.3
   shelf_router: ^1.0.0
   shelf_modular: ^2.1.0
   json_annotation: ^4.12.0
